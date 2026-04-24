@@ -77,18 +77,8 @@ Main
 
 ---
 
-## ▶️ Example
 
-```java id="dp46k1"
-Car car = CarFactory.createCar("gas");
 
-car.start();
-car.accelerate();
-car.brake();
-
-car.setEngine(new MixedHybridEngine());
-car.accelerate();
-```
 
 ---
 
